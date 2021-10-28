@@ -3,6 +3,9 @@ VRかるたゲームを作りたいと思います
 
 ## 素材
 * 畳： [【FBXモデル】畳 / Tatami](https://booth.pm/ja/items/1951013)
+* 札 [かぜそみそ](http://pjmtdw.github.io/kazesomiso/)
+    * 札画像を生成できるソフト
+    * 現在MS P明朝（太字）を使用
 * 札： $38.49 [Ogura Hyakunin Isshu - The cards of Japanese Waka](https://assetstore.unity.com/packages/3d/props/ogura-hyakunin-isshu-the-cards-of-japanese-waka-157023)
 
 ## 参考リンク
